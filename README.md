@@ -1,6 +1,6 @@
 # Tiktok-Signer
 TikTok API Signature Generator - Generates x-argus, x-ladon, x-gorgon (8404) and x-khronos.
-This script is 100% my creation, it's not a copy of an open source github repo.
+This script is 100% my creation, it's not a copy of another github repo.
 
 https://rapidapi.com/labouakileed122/api/tiktok-signer-working
 
